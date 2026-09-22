@@ -324,6 +324,7 @@ Build → Break → Understand → Fix → Improve
 <div align="center">
 
 <a href="https://github.com/Danish-labs">
+<a herf="https://www.linkedin.com/in/danish-meraj"> 
 <img src="https://img.shields.io/badge/GitHub-Danish--labs-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
