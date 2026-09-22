@@ -24,10 +24,10 @@ Building · Learning · Experimenting
 ## `whoami`
 
 <pre>
-Name        → Danish
+Name        → Danish Meraj
 Role        → Engineering Student
 Environment → Linux
-Languages   → C · C++ · Python · JavaScript · TypeScript
+Languages   → C · C++ · Python · 
 Interests   → AI · Cybersecurity · Automation · IoT
 Currently   → Building · Learning · Experimenting
 </pre>
