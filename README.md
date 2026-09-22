@@ -1,51 +1,24 @@
 <div align="center">
 
-<a href="https://github.com/Danish-labs">
+<img src="./assets/danish-terminal-opening.gif" width="100%" alt="Danish Terminal Animation">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=45&pause=400&color=58A6FF&center=true&vCenter=true&width=900&height=40&lines=%24+whoami;%3E+danish;%24+./initialize_profile.sh;%5BOK%5D+Loading+developer+profile...;%5BOK%5D+Linux+environment+detected;%5BOK%5D+Python+environment+ready;%5BOK%5D+AI+systems+initialized;%5BOK%5D+Cybersecurity+toolkit+ready;%5BOK%5D+Automation+modules+loaded;%24+echo+%22Welcome+to+Danish-labs%22;Welcome+to+Danish-labs_%3E" alt="Terminal Animation"/>
+<br><br>
 
-</a>
-
-<br>
-
-<pre>
-╭──────────────────────────────────────────────────────────────────────╮
-│                                                                      │
-│   ██████╗  █████╗ ███╗   ██╗██╗███████╗██╗  ██╗                    │
-│   ██╔══██╗██╔══██╗████╗  ██║██║██╔════╝██║  ██║                    │
-│   ██║  ██║███████║██╔██╗ ██║██║███████╗███████║                    │
-│   ██║  ██║██╔══██║██║╚██╗██║██║╚════██║██╔══██║                    │
-│   ██████╔╝██║  ██║██║ ╚████║██║███████║██║  ██║                    │
-│   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝                    │
-│                                                                      │
-│   Engineering Student  •  Developer  •  Linux Enthusiast            │
-│                                                                      │
-╰──────────────────────────────────────────────────────────────────────╯
-</pre>
+### Engineering Student · Developer · Linux Enthusiast
 
 <p>
-<a href="https://github.com/Danish-labs">
-<img src="https://img.shields.io/badge/GitHub-Danish--labs-111827?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://github.com/Danish-labs?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white">
-</a>
+Building · Learning · Experimenting
 </p>
 
+<a href="https://github.com/Danish-labs">
+<img src="https://img.shields.io/badge/GitHub-Danish--labs-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+
+<a href="https://github.com/Danish-labs?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-Explore-0969DA?style=flat-square&logo=github&logoColor=white">
+</a>
+
 </div>
-
----
-
-## `whoami`
-
-<pre>
-Name        → Danish
-Role        → Engineering Student
-Environment → Linux
-Languages   → C · C++ · Python · 
-Interests   → AI · Cybersecurity · Automation · IoT
-Currently   → Building · Learning · Experimenting
-</pre>
 
 ---
 
