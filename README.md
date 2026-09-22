@@ -86,9 +86,42 @@ technology names in a README.
 <img src="https://img.shields.io/badge/Selenium-111827?style=flat-square&logo=selenium&logoColor=43B02A">
 <img src="https://img.shields.io/badge/Playwright-111827?style=flat-square&logo=playwright&logoColor=2EAD33">
 <img src="https://img.shields.io/badge/Puppeteer-111827?style=flat-square&logo=puppeteer&logoColor=40B5A4">
-<img src="https://img.shields.io/badge/BeautifulSoup-111827?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/BeautifulSoup-111827?style=flat-square&logo=python&logoColor=3776AB">
 <img src="https://img.shields.io/badge/Scrapy-111827?style=flat-square&logo=scrapy&logoColor=60A839">
-<img src="https://img.shields.io/badge/Requests-111827?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Requests-111827?style=flat-square&logo=python&logoColor=3776AB">
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-111827?style=flat-square&logo=openai&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Machine_Learning-111827?style=flat-square&logo=scikitlearn&logoColor=F7931E">
+<img src="https://img.shields.io/badge/Generative_AI-111827?style=flat-square&logo=openai&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/LLMs-111827?style=flat-square&logo=ollama&logoColor=FFFFFF">
+</p>
+
+### ☁️ Cloud & Backend
+
+<p>
+<img src="https://img.shields.io/badge/Cloud_Computing-111827?style=flat-square&logo=icloud&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/REST_APIs-111827?style=flat-square&logo=fastapi&logoColor=009688">
+<img src="https://img.shields.io/badge/Backend_Development-111827?style=flat-square&logo=node.js&logoColor=339933">
+</p>
+
+### 🌐 IoT & Connected Systems
+
+<p>
+<img src="https://img.shields.io/badge/IoT-111827?style=flat-square&logo=arduino&logoColor=00979D">
+<img src="https://img.shields.io/badge/Embedded_Systems-111827?style=flat-square&logo=arduino&logoColor=00979D">
+<img src="https://img.shields.io/badge/Connected_Systems-111827?style=flat-square&logo=internetofthings&logoColor=FFFFFF">
+</p>
+
+### 🔐 Cybersecurity
+
+<p>
+<img src="https://img.shields.io/badge/Cybersecurity-111827?style=flat-square&logo=kalilinux&logoColor=557C94">
+<img src="https://img.shields.io/badge/Linux_Security-111827?style=flat-square&logo=linux&logoColor=FCC624">
+<img src="https://img.shields.io/badge/Networking-111827?style=flat-square&logo=cisco&logoColor=1BA0D7">
 </p>
 
 ### 🐧 Tools & Environment
@@ -97,6 +130,8 @@ technology names in a README.
 <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624">
 <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032">
 <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Bash-111827?style=flat-square&logo=gnubash&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/VS_Code-111827?style=flat-square&logo=visualstudiocode&logoColor=007ACC">
 </p>
 
 ---
@@ -110,15 +145,15 @@ technology names in a README.
 ### 🤖 AI & Machine Learning
 
 Exploring AI systems, machine learning concepts,
-and practical applications.
+generative AI, local models and practical applications.
 
 </td>
 <td width="50%">
 
 ### 🔐 Cybersecurity
 
-Learning networking, security concepts,
-Linux tooling and ethical security practices.
+Learning networking, Linux security,
+security concepts and ethical security practices.
 
 </td>
 </tr>
@@ -134,10 +169,29 @@ tools, scripting and system internals.
 </td>
 <td width="50%">
 
-### 🌐 IoT & Automation
+### 🌐 Web & Automation
 
-Exploring connected systems, automation,
-scraping and programmable workflows.
+Building web applications, scraping systems,
+browser automation and programmable workflows.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☁️ Cloud Computing
+
+Exploring cloud technologies, backend systems,
+APIs and scalable application concepts.
+
+</td>
+<td width="50%">
+
+### 🌐 IoT & Connected Systems
+
+Exploring connected devices, automation,
+embedded systems and IoT applications.
 
 </td>
 </tr>
@@ -156,7 +210,8 @@ what technologies I have heard of.
 DSA
  │
  ├── Problem Solving
- └── C / C++
+ ├── C
+ └── C++
 
 Web Development
  │
@@ -175,6 +230,18 @@ Linux
  ├── Bash
  ├── Git
  └── Systems
+
+Cybersecurity
+ │
+ ├── Networking
+ ├── Linux Security
+ └── Security Concepts
+
+IoT
+ │
+ ├── Connected Systems
+ ├── Automation
+ └── Embedded Technologies
 </pre>
 
 ### 🚧 Featured Projects
@@ -192,10 +259,12 @@ Linux
 - 🧩 Data Structures & Algorithms
 - 🐍 Advanced Python
 - ⚡ JavaScript & TypeScript
-- 🐧 Linux & Bash
 - 🌐 Web Development
+- 🐧 Linux & Bash
 - 🤖 AI / Machine Learning
 - 🔐 Cybersecurity
+- ☁️ Cloud Computing
+- 🌐 IoT & Automation
 
 ---
 
@@ -237,8 +306,11 @@ Build → Break → Understand → Fix → Improve
 - [ ] Improve DSA & problem solving
 - [ ] Build full-stack applications
 - [ ] Explore AI / ML
+- [ ] Work with local AI models
 - [ ] Improve Linux & system knowledge
 - [ ] Learn more about Cybersecurity
+- [ ] Explore Cloud Computing
+- [ ] Build IoT projects
 - [ ] Contribute to Open Source
 - [ ] Build useful developer tools
 
@@ -262,6 +334,6 @@ Build → Break → Understand → Fix → Improve
 
 <br>
 
-<sub>Made with curiosity, code, and probably too much terminal time.</sub>
+<sub>Made with curiosity, code, Linux and probably too much terminal time.</sub>
 
 </div>
