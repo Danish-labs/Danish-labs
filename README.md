@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/danish-terminal-opening.gif" width="100%" alt="Danish Terminal Animation">
+<img src="./assets/danish-terminal-opening.gif" width="100%" alt="Danish - Developer Profile">
 
 <br><br>
 
