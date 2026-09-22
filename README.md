@@ -21,6 +21,18 @@ Building · Learning · Experimenting
 </div>
 
 ---
+## `whoami`
+
+<pre>
+Name        → Danish
+Role        → Engineering Student
+Environment → Linux
+Languages   → C · C++ · Python · JavaScript · TypeScript
+Interests   → AI · Cybersecurity · Automation · IoT
+Currently   → Building · Learning · Experimenting
+</pre>
+
+---
 
 ## 👨‍💻 About Me
 
