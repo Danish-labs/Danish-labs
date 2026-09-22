@@ -1,22 +1,8 @@
 <div align="center">
 
-<img src="./assets/danish-terminal-opening.gif" width="100%" alt="Danish - Developer Profile">
-
-<br><br>
-
-### Engineering Student · Developer · Linux Enthusiast
-
-<p>
-Building · Learning · Experimenting
-</p>
-
-<a href="https://github.com/Danish-labs">
-<img src="https://img.shields.io/badge/GitHub-Danish--labs-181717?style=flat-square&logo=github&logoColor=white">
-</a>
-
-<a href="https://github.com/Danish-labs?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-Explore-0969DA?style=flat-square&logo=github&logoColor=white">
-</a>
+<img src="./assets/danish-terminal-opening.gif"
+     width="100%"
+     alt="Danish - Developer Profile">
 
 </div>
 
