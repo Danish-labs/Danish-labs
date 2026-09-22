@@ -1,22 +1,20 @@
 <div align="center">
 
-# Danish
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:2563EB&height=230&section=header&text=DANISH&fontSize=55&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Engineering%20Student%20%7C%20Developer%20%7C%20Linux%20Enthusiast&descAlignY=58&descSize=17" width="100%"/>
 
-### Engineering Student · Developer · Linux Enthusiast
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=800&height=60&lines=Engineering+Student;Software+Developer;Linux+Enthusiast;AI+%26+Cybersecurity+Explorer;Automation+%26+IoT+Developer;Building+%7C+Learning+%7C+Experimenting" alt="Typing SVG"/>
+</a>
 
-<p>
-I like building things, understanding how they work,<br>
-and occasionally breaking them in the process.
-</p>
+<br>
 
-<p>
 <a href="https://github.com/Danish-labs">
 <img src="https://img.shields.io/badge/GitHub-Danish--labs-181717?style=flat-square&logo=github&logoColor=white">
 </a>
+
 <a href="https://github.com/Danish-labs?tab=repositories">
 <img src="https://img.shields.io/badge/Projects-Explore-0969DA?style=flat-square&logo=github&logoColor=white">
 </a>
-</p>
 
 </div>
 
@@ -25,10 +23,10 @@ and occasionally breaking them in the process.
 ## `whoami`
 
 <pre>
-Name        → Danish
+Name        → Danish Meraj
 Role        → Engineering Student
 Environment → Linux
-Languages   → C · C++ · Python · JavaScript · TypeScript
+Languages   → C · C++ · Python 
 Interests   → AI · Cybersecurity · Automation · IoT
 Currently   → Building · Learning · Experimenting
 </pre>
@@ -49,6 +47,7 @@ My main areas of interest include:
 - 🔐 Cybersecurity
 - 🕷️ Web Scraping & Browser Automation
 - 🌐 IoT & Connected Systems
+- ☁️ Cloud Computing
 
 I prefer learning by **building real projects** rather than just collecting
 technology names in a README.
@@ -140,6 +139,7 @@ technology names in a README.
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🤖 AI & Machine Learning
@@ -148,6 +148,7 @@ Exploring AI systems, machine learning concepts,
 generative AI, local models and practical applications.
 
 </td>
+
 <td width="50%">
 
 ### 🔐 Cybersecurity
@@ -156,9 +157,11 @@ Learning networking, Linux security,
 security concepts and ethical security practices.
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### 🐧 Linux & Systems
@@ -167,6 +170,7 @@ Working with Linux environments, command-line
 tools, scripting and system internals.
 
 </td>
+
 <td width="50%">
 
 ### 🌐 Web & Automation
@@ -175,9 +179,11 @@ Building web applications, scraping systems,
 browser automation and programmable workflows.
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### ☁️ Cloud Computing
@@ -186,6 +192,7 @@ Exploring cloud technologies, backend systems,
 APIs and scalable application concepts.
 
 </td>
+
 <td width="50%">
 
 ### 🌐 IoT & Connected Systems
@@ -194,6 +201,7 @@ Exploring connected devices, automation,
 embedded systems and IoT applications.
 
 </td>
+
 </tr>
 </table>
 
