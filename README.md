@@ -1,111 +1,250 @@
 <div align="center">
 
-# 👋 Hi, I'm Danish
+# Danish
 
-### Engineering Student • Developer • Linux Enthusiast
+### Engineering Student · Developer · Linux Enthusiast
 
-Building software, exploring systems, and learning by building.
+<p>
+I like building things, understanding how they work,<br>
+and occasionally breaking them in the process.
+</p>
+
+<p>
+<a href="https://github.com/Danish-labs">
+<img src="https://img.shields.io/badge/GitHub-Danish--labs-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+<a href="https://github.com/Danish-labs?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-Explore-0969DA?style=flat-square&logo=github&logoColor=white">
+</a>
+</p>
 
 </div>
+
+---
+
+## `whoami`
+
+<pre>
+Name        → Danish
+Role        → Engineering Student
+Environment → Linux
+Languages   → C · C++ · Python · JavaScript · TypeScript
+Interests   → AI · Cybersecurity · Automation · IoT
+Currently   → Building · Learning · Experimenting
+</pre>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm an Engineering student interested in software development,
-systems, automation, AI, cybersecurity, and IoT.
+I'm an Engineering student interested in **software development, systems,
+automation and emerging technologies**.
 
-- 💻 C, C++, Python, JavaScript & TypeScript
-- 🌐 Web & Mobile Development
-- 🕷️ Web Scraping & Browser Automation
+My main areas of interest include:
+
+- 💻 Software Development
+- 🧩 Data Structures & Algorithms
 - 🐧 Linux & Open Source
-- 🔧 Git & GitHub
 - 🤖 Artificial Intelligence & Machine Learning
-- ☁️ Cloud Computing
 - 🔐 Cybersecurity
-- 🌐 Internet of Things
+- 🕷️ Web Scraping & Browser Automation
+- 🌐 IoT & Connected Systems
+
+I prefer learning by **building real projects** rather than just collecting
+technology names in a README.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/C-111827?style=flat-square&logo=c&logoColor=A8B9CC">
+<img src="https://img.shields.io/badge/C%2B%2B-111827?style=flat-square&logo=cplusplus&logoColor=00599C">
+<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6">
+</p>
 
 ### 🌐 Web & Mobile
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26">
+<img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6">
+<img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/React_Native-111827?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Redux-111827?style=flat-square&logo=redux&logoColor=764ABC">
+<img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4">
+<img src="https://img.shields.io/badge/Bootstrap-111827?style=flat-square&logo=bootstrap&logoColor=7952B3">
+<img src="https://img.shields.io/badge/Android-111827?style=flat-square&logo=android&logoColor=3DDC84">
+</p>
 
-### 🕷️ Web Scraping & Automation
+### 🕷️ Automation & Scraping
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge)
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/Selenium-111827?style=flat-square&logo=selenium&logoColor=43B02A">
+<img src="https://img.shields.io/badge/Playwright-111827?style=flat-square&logo=playwright&logoColor=2EAD33">
+<img src="https://img.shields.io/badge/Puppeteer-111827?style=flat-square&logo=puppeteer&logoColor=40B5A4">
+<img src="https://img.shields.io/badge/BeautifulSoup-111827?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Scrapy-111827?style=flat-square&logo=scrapy&logoColor=60A839">
+<img src="https://img.shields.io/badge/Requests-111827?style=flat-square&logoColor=white">
+</p>
 
-### 🐧 Linux & Development Tools
+### 🐧 Tools & Environment
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624">
+<img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032">
+<img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=FFFFFF">
+</p>
 
 ---
 
-## 🤖 Areas of Interest
+## 🧠 What I'm Exploring
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI & Machine Learning
+
+Exploring AI systems, machine learning concepts,
+and practical applications.
+
+</td>
+<td width="50%">
+
+### 🔐 Cybersecurity
+
+Learning networking, security concepts,
+Linux tooling and ethical security practices.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🐧 Linux & Systems
+
+Working with Linux environments, command-line
+tools, scripting and system internals.
+
+</td>
+<td width="50%">
+
+### 🌐 IoT & Automation
+
+Exploring connected systems, automation,
+scraping and programmable workflows.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Projects
+
+I believe projects should demonstrate **what I can build**, not just
+what technologies I have heard of.
+
+### 🔭 Current Direction
+
+<pre>
+DSA
+ │
+ ├── Problem Solving
+ └── C / C++
+
+Web Development
+ │
+ ├── JavaScript
+ ├── TypeScript
+ └── React
+
+Python
+ │
+ ├── Automation
+ ├── Web Scraping
+ └── AI / ML
+
+Linux
+ │
+ ├── Bash
+ ├── Git
+ └── Systems
+</pre>
+
+### 🚧 Featured Projects
+
+> Projects will be added here as they become polished and public.
+
+<a href="https://github.com/Danish-labs?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_MY_REPOSITORIES-0969DA?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+---
+
+## 📚 Currently Learning
+
+- 🧩 Data Structures & Algorithms
+- 🐍 Advanced Python
+- ⚡ JavaScript & TypeScript
+- 🐧 Linux & Bash
+- 🌐 Web Development
+- 🤖 AI / Machine Learning
 - 🔐 Cybersecurity
-- ☁️ Cloud Computing
-- 🌐 Internet of Things
-- ⚙️ Automation
-- 🐧 Linux & Open Source
 
 ---
 
-## 🚀 Featured Projects
-
-> 🚧 Projects coming soon...
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Danish-labs&show_icons=true&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Danish-labs?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-0969DA?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danish-labs&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Danish-labs?tab=followers">
+<img src="https://img.shields.io/github/followers/Danish-labs?style=for-the-badge&label=Followers&logo=github">
+</a>
+
+<a href="https://github.com/Danish-labs?tab=stars">
+<img src="https://img.shields.io/github/stars/Danish-labs?style=for-the-badge&label=Stars&logo=github">
+</a>
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+## ⚡ Development Philosophy
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Danish-labs&theme=tokyonight&hide_border=true" />
+<pre>
+Build → Break → Understand → Fix → Improve
+</pre>
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Goals
+
+- [ ] Build more real-world projects
+- [ ] Improve DSA & problem solving
+- [ ] Build full-stack applications
+- [ ] Explore AI / ML
+- [ ] Improve Linux & system knowledge
+- [ ] Learn more about Cybersecurity
+- [ ] Contribute to Open Source
+- [ ] Build useful developer tools
+
+---
+
+## 📫 Connect
 
 <div align="center">
 
@@ -119,6 +258,10 @@ systems, automation, AI, cybersecurity, and IoT.
 
 <div align="center">
 
-### 💻 Build • Break • Debug • Learn
+### `Keep building.`
+
+<br>
+
+<sub>Made with curiosity, code, and probably too much terminal time.</sub>
 
 </div>
