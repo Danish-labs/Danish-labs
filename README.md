@@ -1,20 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:2563EB&height=230&section=header&text=DANISH&fontSize=55&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Engineering%20Student%20%7C%20Developer%20%7C%20Linux%20Enthusiast&descAlignY=58&descSize=17" width="100%"/>
+<a href="https://github.com/Danish-labs">
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=800&height=60&lines=Engineering+Student;Software+Developer;Linux+Enthusiast;AI+%26+Cybersecurity+Explorer;Automation+%26+IoT+Developer;Building+%7C+Learning+%7C+Experimenting" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=45&pause=400&color=58A6FF&center=true&vCenter=true&width=900&height=40&lines=%24+whoami;%3E+danish;%24+./initialize_profile.sh;%5BOK%5D+Loading+developer+profile...;%5BOK%5D+Linux+environment+detected;%5BOK%5D+Python+environment+ready;%5BOK%5D+AI+systems+initialized;%5BOK%5D+Cybersecurity+toolkit+ready;%5BOK%5D+Automation+modules+loaded;%24+echo+%22Welcome+to+Danish-labs%22;Welcome+to+Danish-labs_%3E" alt="Terminal Animation"/>
+
 </a>
 
 <br>
 
-<a href="https://github.com/Danish-labs">
-<img src="https://img.shields.io/badge/GitHub-Danish--labs-181717?style=flat-square&logo=github&logoColor=white">
-</a>
+<pre>
+╭──────────────────────────────────────────────────────────────────────╮
+│                                                                      │
+│   ██████╗  █████╗ ███╗   ██╗██╗███████╗██╗  ██╗                    │
+│   ██╔══██╗██╔══██╗████╗  ██║██║██╔════╝██║  ██║                    │
+│   ██║  ██║███████║██╔██╗ ██║██║███████╗███████║                    │
+│   ██║  ██║██╔══██║██║╚██╗██║██║╚════██║██╔══██║                    │
+│   ██████╔╝██║  ██║██║ ╚████║██║███████║██║  ██║                    │
+│   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝                    │
+│                                                                      │
+│   Engineering Student  •  Developer  •  Linux Enthusiast            │
+│                                                                      │
+╰──────────────────────────────────────────────────────────────────────╯
+</pre>
 
-<a href="https://github.com/Danish-labs?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-Explore-0969DA?style=flat-square&logo=github&logoColor=white">
+<p>
+<a href="https://github.com/Danish-labs">
+<img src="https://img.shields.io/badge/GitHub-Danish--labs-111827?style=for-the-badge&logo=github&logoColor=white">
 </a>
+<a href="https://github.com/Danish-labs?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
 
 </div>
 
@@ -23,10 +39,10 @@
 ## `whoami`
 
 <pre>
-Name        → Danish Meraj
+Name        → Danish
 Role        → Engineering Student
 Environment → Linux
-Languages   → C · C++ · Python 
+Languages   → C · C++ · Python · 
 Interests   → AI · Cybersecurity · Automation · IoT
 Currently   → Building · Learning · Experimenting
 </pre>
@@ -139,7 +155,6 @@ technology names in a README.
 
 <table>
 <tr>
-
 <td width="50%">
 
 ### 🤖 AI & Machine Learning
@@ -157,11 +172,9 @@ Learning networking, Linux security,
 security concepts and ethical security practices.
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%">
 
 ### 🐧 Linux & Systems
@@ -179,11 +192,9 @@ Building web applications, scraping systems,
 browser automation and programmable workflows.
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%">
 
 ### ☁️ Cloud Computing
@@ -201,7 +212,6 @@ Exploring connected devices, automation,
 embedded systems and IoT applications.
 
 </td>
-
 </tr>
 </table>
 
